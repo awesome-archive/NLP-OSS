@@ -61,7 +61,7 @@ We invite full papers (8 pages) or short papers (4 pages) on topics related to N
 
 ## Demographic Diversity
 
-**Organizers:** We have 4 organizers with representation from industrial NLP/ML labs, consultancy labs and academic research.  
+**Organizers:** We have 6 organizers with representation from industrial NLP/ML labs, consultancy labs and academic research.  
 
 **PC members:** We strive to a have a balance of academic and industrial PC from diverse gender and geolocation demographics. On top of our existing PC members from NLP-OSS 2018, we've invited new PCs members by (i) recommendation of previous PC members and (ii) extending our invitation to a subset of WiNLP members on the BIG directory (we tried to contact as many as possible and in total we've sent to ~30 invitations to WiNLP members); if they have not replied and accepted the invitation, we have not listed in the PC list below. 
 
@@ -108,9 +108,14 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
 
      Dmitrijs Milajevs is a data scientist at KMPG. Previously, he evaluated information retrieval systems at National Institute of Standards and Technology (NIST). He has defended a Ph.D. thesis on evaluation of compositional models in distributional semantics.
 
- - [Nelson Liu](https://cs.stanford.edu/~nfliu/),  Natural Language Processing Group, Stanford University.
+ - [Nelson Liu](https://cs.stanford.edu/~nfliu/),  Stanford University.
 
-     Nelson Liu is a Ph.D. student at Stanford NLP Group working on generalizability and robustness of natural language processing systems. He has been an active contributor to AllenNLP and made contributions to Scikit-Learn during his participation in Google Summer of Code Developer. He participated in the first edition of NLP-OSS workshop and is now organizing his first *ACL workshop!
+     Nelson Liu is a computer science Ph.D. student at Stanford, where he works in the Stanford NLP Group. He has contributed to the AllenNLP, torchtext, and scikit-learn projects at various points in time.
+     
+ - [Geeticka Chauhan](https://www.csail.mit.edu/person/geeticka-chauhan), Massachusetts Institute of Technology
+ 
+    Geeticka Chauhan is a Ph.D. student at MIT, working on NLP for healthcare advised by Prof. Peter Szolovits. Her master thesis focused on revealing the reproducibility and generalizability problems in Relation Extraction, and experimentally showed the importance of streamlining evaluation methods in NLP challenges
+
 
  - [Liling Tan](https://github.com/alvations), Rakuten Institute of Technology
 
@@ -119,9 +124,12 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
 
 ## Programme Committee 
 
+ - [Tareq Abdo Abdullah Al-Moslmi](https://www.uib.no/en/persons/Tareq.Abdo.Abdullah.Al-Moslmi),  University of Bergen
  - [Martin Andrews](http://mdda.net), Red Cat Labs
+ - [Eleftherios Avramidis](), Deutsches Forschungszentrum für Künstliche Intelligenz
  - Amittai Axelrod,	DiDi Chuxing (Los Angeles)
  - Tim Baldwin, University of Melbourne
+ - [Marcel Bollmann](https://marcel.bollmann.me/), University of Copenhagen
  - [Francis Bond](http://www.ntu.edu.sg/home/fcbond/), Nanyang Technological University
  - [Steven Bethard](http://bethard.faculty.arizona.edu/), University of Arizona
  - [Fred Blain](https://fredblain.org), University of Sheffield
@@ -129,13 +137,16 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Daniel Braun](http://wwwmatthes.in.tum.de), Technical University of Munich
  - [Denny Britz](http://blog.dennybritz.com/about/), Prediction Machines
  - [Muthu Kumar Chandrasekaran](http://wing.comp.nus.edu.sg/~cmkumar/), National University of Singapore
- - Geeticka Chauhan,	Massachusetts Institute of Technology
+ - Sharat Chikkerur,	Microsoft
  - [Kyunghyun Cho](http://www.kyunghyuncho.me/), New York University
  - Shamil Chollampatt,	Rakuten Institute of Technology
  - [Jon Dehdari](http://jon.dehdari.org), Think Big Analytics
  - Steve DeNeefe,	SDL
  - [Leon Derczynski](http://www.derczynski.com/itu/), IT University of Copenhagen
+ - [Anca Dumitrache](http://ancad.ro/),	FD Mediagroep
+ - Gérard Dupont, Airbus
  - [Ignatius Ezeani](https://www.lancaster.ac.uk/scc/about-us/people/ignatius-ezeani), Lancaster University
+ - [Marzieh Fadaee](https://staff.fnwi.uva.nl/m.fadaee/), University of Amsterdam
  - [Christian Federmann](http://www.cfedermann.de), Microsoft Research
  - [Mary Ellen Foster](http://www.dcs.gla.ac.uk/~mefoster/), University of Glasgow
  - [Michael Wayne Goodman](https://goodmami.org/), Nanyang Technological University
@@ -143,17 +154,22 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Joel Grus](http://joelgrus.com/), Allen Institute for Artificial Intelligence
  - [Chris Hokamp](https://github.com/chrishokamp), AYLIEN
  - [Matthew Honnibal](https://explosion.ai), Explosion AI
+ - [David M. Howcroft](https://davehowcroft.com/), 
+ - [Fabio Kepler](), Unbabel
  - [Sung Kim](https://www.cse.ust.hk/~hunkim/), Hong Kong University of Science and Technology
+ - [Thomas Kober](https://www.inf.ed.ac.uk/people/staff/Thomas_Kober.html), University of Edinburgh
  - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), Johns Hopkins University
  - [Taku Kudo](http://chasen.org/~taku/index.html.en), Google
  - Varun Kumar,	Amazon Alexa
  - [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/), Carnegie Mellon University
+ - [Sandya Mannarswamy](https://scholar.google.co.in/citations?user=i27nd3oAAAAJ&hl=en), Independent Researcher
  - [Christopher Manning](https://nlp.stanford.edu/manning/), Stanford University
- - [Tomas Mikolov](https://research.fb.com/people/mikolov-tomas/), Facebook AI Research (FAIR)
+ - Laura Martinus, Explore Data Science Academy
+ - Ehsan Khoddam Mohammadi, RELX
  - [Ines Montani](https://ines.io), Explosion AI
- - [Andreas Müller](http://amueller.github.io), Columbia University
- - [Vlad Niculae](http://vene.ro), Cornell CIS
+ - [Vlad Niculae](http://vene.ro), Instituto de Telecomunicações
  - [Joel Nothman](http://www.joelnothman.com), University of Sydney
+ - Yves Peirsman, 	NLP Town
  - [Tommi A Pirinen](https://www.computing.dcu.ie/~tpirinen/),	University of Hamburg
  - [Aline Paes](https://uff.academia.edu/AlinePaes),	Universidade Federal Fluminense
  - [Matt Post](http://cs.jhu.edu/~post/),  Johns Hopkins University
@@ -162,16 +178,22 @@ To ensure diversity and inclusivity, we have drafted a [Code of Conduct](https:/
  - [Delip Rao](http://deliprao.com), AI Foundation
  - [Radim Řehůřek](https://radimrehurek.com/), RaRe Technologies
  - [Elijah Rippeth](https://erip.github.io), MITRE Corporation
+ - [Mohd Sanad Zaki Rizvi](https://www.linkedin.com/in/mohd-sanad-zaki-rizvi-0238b5a6/), Analytics Vidhya
+ - [Ivan Vladimir Meza Ruiz](http://turing.iimas.unam.mx/~ivanvladimir/), National University of Mexico 
  - [Carolina Scarton](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/), University of Sheffield
+ - [Micah Shlain](https://www.linkedin.com/in/micah-shlain-52254323), Allen Institute for Artificial Intelligence
  - [Rico Sennrich](http://homepages.inf.ed.ac.uk/rsennric/), University of Edinburgh
  - [Dan Simonson](http://thedansimonson.com), Georgetown University
+ - [Steve Sloto](https://www.linkedin.com/in/ssloto/), Amazon Web Services
+ - [Karin Sim Smith](), University of Sheffield
  - [Ian Soboroff](https://www.nist.gov/people/ian-soboroff), NIST
  - Shilpa Suresh, Independent Researcher
  - [Tilahun Abedissa Taffa](), Kotebe Metropolitan University
- - [Rachael Tatman](http://rachaeltatman.com), Kaggle
  - [Tommaso Teofili](http://people.apache.org/~tommaso/), Adobe
  - [Emiel van Miltenburg](http://www.emielvanmiltenburg.nl), Vrije Universiteit Amsterdam
+ - [Svitlana Vakulenko](svakulenk0.github.io), Vienna University of Economics and Business
  - [Gaël Varoquaux](http://gael-varoquaux.info), INRIA
+ - [Moshe Wasserblat](), Intel Corporation 
  - [Marcos Zampieri](http://uni-koeln.de/~mzampie2/index.html),  University of Wolverhampton
  - [Maarten van Gompel](https://proycon.anaproy.nl/), Radboud University
 
